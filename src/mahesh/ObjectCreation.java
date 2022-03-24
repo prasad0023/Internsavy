@@ -4,7 +4,7 @@ public class ObjectCreation {
     public ObjectCreation(){
         System.out.println("i am in a default constructor");
     }
-    public void display(){
+    public void display() {
         System.out.println("i am in a display method");
     }
     public static void main(String[] args) {
