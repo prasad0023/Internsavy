@@ -1,7 +1,7 @@
 package omkar.inheritance.singleLevel;
 
 public class B extends A {
-    public void Test3(){
+    public void test3(){
         System.out.println("i am in test 3");
     }
     public int Test4(){

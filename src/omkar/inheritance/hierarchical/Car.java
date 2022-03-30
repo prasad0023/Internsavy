@@ -1,7 +1,7 @@
 package omkar.inheritance.hierarchical;
 
-public class Hierarchical {
-    public void ParentClass(){
+public class Car {
+    public void carInfo(){
         System.out.println("i am in ParentClass");
     }
 }
