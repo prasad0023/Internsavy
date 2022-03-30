@@ -1,6 +1,6 @@
-package rutuja.inheritance;
+package rutuja.inheritance.multi;
 
-public class C extends B {
+public class C extends B{
     public void test5(){
         System.out.println("I am in test5()");
     }

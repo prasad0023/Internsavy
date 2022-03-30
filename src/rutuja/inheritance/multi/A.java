@@ -1,4 +1,4 @@
-package rutuja.inheritance;
+package rutuja.inheritance.multi;
 
 public class A {
     public void test1(){

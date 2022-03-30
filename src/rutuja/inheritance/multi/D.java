@@ -1,11 +1,11 @@
-package rutuja.inheritance;
+package rutuja.inheritance.multi;
 
 public class D extends C {
     public void test7(){
         System.out.println("I am in test7()");
     }
     public void test8(){
-        System.out.println("I ma in test8()");
+        System.out.println("I am in test8()");
     }
 
     public static void main(String[] args) {
@@ -18,5 +18,6 @@ public class D extends C {
         obj.test6();
         obj.test7();
         obj.test8();
+
     }
 }

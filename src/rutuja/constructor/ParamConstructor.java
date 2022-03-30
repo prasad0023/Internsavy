@@ -1,4 +1,4 @@
-package rutuja;
+package rutuja.constructor;
 
 public class ParamConstructor {
     int a;
