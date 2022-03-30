@@ -1,6 +1,8 @@
 package mahesh.inheritance;
 
 public class Super {
+    static int a=10;
+    int b=20;
     public void test1(){
         System.out.println("i an in test1()");
     }
