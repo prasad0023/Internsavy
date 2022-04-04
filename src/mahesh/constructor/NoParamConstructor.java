@@ -18,5 +18,6 @@ public class NoParamConstructor {
     public static void main(String[] args) {
         NoParamConstructor obj= new NoParamConstructor();
         obj.NoParamConstructor();
+
     }
 }
