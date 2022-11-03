@@ -34,4 +34,8 @@ public class Alto implements Car {
         System.out.println("Red");
     }
 
+    public static void main(String[] args) {
+        Car a = new Alto();
+    }
+
 }

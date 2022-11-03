@@ -2,7 +2,7 @@ package omkar;
 // here we declare StaticBlock Class
 public class StaticBlock {
     int a;             //instance variable
-    int b;             //instance variable
+    int b;             //instance variable,
      int c;            //instance variable
       static int s;      // static variable
       static int s1;       // static variable

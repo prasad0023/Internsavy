@@ -9,11 +9,11 @@ public class Sub extends Demo{
     }
 
     @Override
-    void display() {
+    protected void display() {
         System.out.println("i am in display()");
 
     }
-
+    
     public static void main(String[] args) {
         Sub obj = new Sub();
         obj.show();

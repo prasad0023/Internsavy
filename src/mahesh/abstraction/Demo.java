@@ -8,7 +8,5 @@ public abstract class Demo {
     abstract void show1();
     abstract void display();
 
-    public static void main(String[] args) {
 
-    }
 }

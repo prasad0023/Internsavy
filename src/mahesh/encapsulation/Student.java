@@ -1,9 +1,6 @@
 package mahesh.encapsulation;
 
 public class Student {
-    private String name;
-    private  int id;
-
     public String getName() {
         return name;
     }
@@ -19,8 +16,18 @@ public class Student {
     public void setId(int id) {
         this.id = id;
     }
-    public void show(int x)
-    {
-        System.out.println(x);
+
+    public int getAge() {
+        return age;
     }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    private String name;
+    private  int id;
+    private  int age;
+
+
 }

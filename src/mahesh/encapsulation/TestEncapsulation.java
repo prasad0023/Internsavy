@@ -14,7 +14,5 @@ public class TestEncapsulation {
         str=s1.getName();
         System.out.println(str);
 
-        s1.show(s1.getId());
-
     }
 }

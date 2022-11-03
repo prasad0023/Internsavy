@@ -9,6 +9,9 @@ public class Demo1 {
     }
 
     public static void main(String[] args) {
+        Super obj = new Sub();
+        obj.display();
+        obj.demo1111();
 
     }
 }

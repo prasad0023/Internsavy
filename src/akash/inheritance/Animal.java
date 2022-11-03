@@ -1,7 +1,7 @@
 package akash.inheritance;
 
 public class Animal {
-    public void eat (){
-        System.out.println("Eating");
+    protected void eatingAnimal (){
+        System.out.println("Eating sdsdsdsdsds sdsdsdsdsdsdfs");
     }
 }
