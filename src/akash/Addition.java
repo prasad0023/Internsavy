@@ -1,6 +1,8 @@
 package akash;
 
-public class Addition {
+import prasad.inheritance.A;
+
+public class Addition extends A {
     public void sum(){
         int a=10;
         int b=20;
@@ -11,6 +13,7 @@ public class Addition {
     public static void main(String[] args) {
         Addition obj= new Addition();
         new Addition().sum();
+        System.out.println(obj.hashCode());
 
 
     }

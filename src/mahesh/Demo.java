@@ -1,11 +1,20 @@
 package mahesh;
 
 
+import java.util.GregorianCalendar;
 
 public class Demo {
+    Demo(){
+        System.out.println("hi");
+    }
+    void Demo(){
+        System.out.println("hi.............................");
+    }
     public static void main(String[] args) {
-        System.out.println("hello");
-        System.out.println("hello new");
+        Demo obj = new Demo();
+        obj.Demo();
+
+
     }
 
 }
